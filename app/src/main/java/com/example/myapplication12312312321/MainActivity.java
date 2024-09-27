@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void onBtnChangeTextClick(View view){
         TextView tvChangeText = (TextView)findViewById(R.id.tvChangeText);
-        tvChangeText.setText("Hello");
+        tvChangeText.setText("Hello00000000");
 
     }
 }
